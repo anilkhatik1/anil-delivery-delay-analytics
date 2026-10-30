@@ -586,3 +586,265 @@ def validate_tables(tables):
             )
 
     return errors, warnings 
+def analyze_delay_factors(df, min_orders=10):
+    """
+    Analyze operational factors associated with delivery delays.
+    """
+
+    feature_columns = [
+        "warehouse_id",
+        "carrier",
+        "route_type",
+        "product_type",
+        "day_of_week",
+        "season",
+        "customer_region",
+    ]
+
+    # Select completed deliveries
+    delivered = df[df["is_delivered"]].copy()
+
+    if delivered.empty:
+        return pd.DataFrame()
+
+    # Calculate delay indicators
+    delivered["late_flag"] = (
+        delivered["delay_days"] > 0
+    )
+
+    delivered["positive_delay"] = (
+        delivered["delay_days"].clip(lower=0)
+    )
+
+    results = []
+
+    # Analyze each operational factor
+    for column in feature_columns:
+
+        if column not in delivered.columns:
+            continue
+
+        grouped = delivered.groupby(
+            column,
+            dropna=False
+        ).agg(
+            orders=("order_id", "count"),
+            late_orders=("late_flag", "sum"),
+            average_delay_days=("positive_delay", "mean")
+        ).reset_index()
+
+        # Ignore categories with insufficient records
+        grouped = grouped[
+            grouped["orders"] >= min_orders
+        ].copy()
+
+        if grouped.empty:
+            continue
+
+        # Calculate late delivery percentage
+        grouped["late_rate_percentage"] = (
+            grouped["late_orders"]
+            / grouped["orders"]
+            * 100
+        )
+
+        grouped["factor"] = column
+
+        grouped.rename(
+            columns={column: "category"},
+            inplace=True
+        )
+
+        results.append(
+            grouped[
+                [
+                    "factor",
+                    "category",
+                    "orders",
+                    "late_orders",
+                    "late_rate_percentage",
+                    "average_delay_days",
+                ]
+            ]
+        )
+
+    # Return empty DataFrame if no results exist
+    if not results:
+        return pd.DataFrame()
+
+    # Combine all factor analysis results
+    final_result = pd.concat(
+        results,
+        ignore_index=True
+    )
+
+    final_result = final_result.sort_values(
+        by="late_rate_percentage",
+        ascending=False
+    )
+
+def rank_carriers(df):
+    """
+    Rank delivery carriers based on delivery performance.
+    """
+
+    delivered = df[df["is_delivered"]].copy()
+
+    if delivered.empty or "carrier" not in delivered.columns:
+        return pd.DataFrame()
+
+    ranking = (
+        delivered.groupby("carrier")
+        .agg(
+            total_deliveries=("order_id", "count"),
+            late_deliveries=("is_late", "sum"),
+            average_delay_days=("delay_days", "mean")
+        )
+        .reset_index()
+    )
+
+    ranking["on_time_deliveries"] = (
+        ranking["total_deliveries"]
+        - ranking["late_deliveries"]
+    )
+
+    ranking["on_time_percentage"] = (
+        ranking["on_time_deliveries"]
+        / ranking["total_deliveries"]
+        * 100
+    )
+
+    ranking["late_percentage"] = (
+        ranking["late_deliveries"]
+        / ranking["total_deliveries"]
+        * 100
+    )
+
+    ranking = ranking.sort_values(
+        by="on_time_percentage",
+        ascending=False
+    )
+
+    return ranking.round(2).reset_index(drop=True)
+def rank_warehouses(df):
+    """
+    Rank warehouses based on delivery performance.
+    """
+
+    delivered = df[df["is_delivered"]].copy()
+
+    if delivered.empty or "warehouse_id" not in delivered.columns:
+        return pd.DataFrame()
+
+    ranking = (
+        delivered.groupby("warehouse_id")
+        .agg(
+            total_deliveries=("order_id", "count"),
+            late_deliveries=("is_late", "sum"),
+            average_delay_days=("delay_days", "mean")
+        )
+        .reset_index()
+    )
+
+    ranking["on_time_deliveries"] = (
+        ranking["total_deliveries"]
+        - ranking["late_deliveries"]
+    )
+
+    ranking["on_time_percentage"] = (
+        ranking["on_time_deliveries"]
+        / ranking["total_deliveries"]
+        * 100
+    )
+
+    ranking["late_percentage"] = (
+        ranking["late_deliveries"]
+        / ranking["total_deliveries"]
+        * 100
+    )
+
+    ranking = ranking.sort_values(
+        by="on_time_percentage",
+        ascending=False
+    )
+
+    return ranking.round(2).reset_index(drop=True)
+def generate_operational_alerts(df, min_orders=10):
+    """Generate alerts for operational areas with poor delivery performance."""
+
+    delivered = df[df["is_delivered"]].copy()
+
+    if delivered.empty:
+        return ["No completed deliveries available for analysis."]
+
+    alerts = []
+
+    # Carrier alerts
+    if "carrier" in delivered.columns:
+        carrier_stats = delivered.groupby("carrier").agg(
+            orders=("order_id", "count"),
+            late_rate=("is_late", "mean"),
+        )
+
+        for carrier, row in carrier_stats.iterrows():
+            if row["orders"] >= min_orders and row["late_rate"] >= 0.30:
+                alerts.append(
+                    f"Carrier {carrier} has a high late-delivery rate "
+                    f"of {row['late_rate'] * 100:.1f}%."
+                )
+
+    # Warehouse alerts
+    if "warehouse_id" in delivered.columns:
+        warehouse_stats = delivered.groupby("warehouse_id").agg(
+            orders=("order_id", "count"),
+            late_rate=("is_late", "mean"),
+        )
+
+        for warehouse, row in warehouse_stats.iterrows():
+            if row["orders"] >= min_orders and row["late_rate"] >= 0.30:
+                alerts.append(
+                    f"Warehouse {warehouse} has a high late-delivery rate "
+                    f"of {row['late_rate'] * 100:.1f}%."
+                )
+
+    if not alerts:
+        alerts.append(
+            "No major operational risks detected using the current alert thresholds."
+        )
+
+    return alerts
+def generate_executive_summary(df):
+    """Generate a business-friendly summary of delivery performance."""
+
+    delivered = df[df["is_delivered"]].copy()
+
+    if delivered.empty:
+        return "There are no completed deliveries available for analysis."
+
+    total_orders = len(df)
+    delivered_orders = len(delivered)
+    late_orders = int(delivered["is_late"].sum())
+
+    on_time_rate = (
+        (delivered_orders - late_orders)
+        / delivered_orders
+        * 100
+    )
+
+    average_delay = delivered["delay_days"].clip(lower=0).mean()
+
+    summary = (
+        f"Out of {total_orders:,} orders, {delivered_orders:,} have been delivered. "
+        f"{late_orders:,} delivered orders were late. "
+        f"The on-time delivery rate is {on_time_rate:.1f}%, "
+        f"with an average positive delay of {average_delay:.1f} days."
+    )
+
+    if on_time_rate >= 90:
+        performance = "Delivery performance is strong."
+    elif on_time_rate >= 75:
+        performance = "Delivery performance needs improvement."
+    else:
+        performance = "Delivery performance requires immediate attention."
+
+    return f"{summary} {performance}"
