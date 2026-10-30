@@ -1,0 +1,2001 @@
+order_id,carrier,route_type
+ORD00001,Delhivery,Local
+ORD00002,Delhivery,Local
+ORD00003,BlueDart,National
+ORD00004,BlueDart,National
+ORD00005,DTDC,Regional
+ORD00006,Delhivery,Local
+ORD00007,DTDC,Regional
+ORD00008,BlueDart,Regional
+ORD00009,Delhivery,Local
+ORD00010,BlueDart,Regional
+ORD00011,BlueDart,Regional
+ORD00012,BlueDart,Local
+ORD00013,BlueDart,National
+ORD00014,Delhivery,National
+ORD00015,BlueDart,Local
+ORD00016,Ecom Express,National
+ORD00017,Delhivery,Local
+ORD00018,BlueDart,National
+ORD00019,BlueDart,Local
+ORD00020,Delhivery,Local
+ORD00021,BlueDart,Regional
+ORD00022,Ecom Express,Regional
+ORD00023,Ecom Express,National
+ORD00024,BlueDart,Regional
+ORD00025,Delhivery,Local
+ORD00026,BlueDart,Regional
+ORD00027,Delhivery,Regional
+ORD00028,Delhivery,Local
+ORD00029,BlueDart,Regional
+ORD00030,BlueDart,National
+ORD00031,DTDC,National
+ORD00032,Delhivery,National
+ORD00033,BlueDart,Local
+ORD00034,DTDC,Regional
+ORD00035,Delhivery,Regional
+ORD00036,Ecom Express,Regional
+ORD00037,BlueDart,Regional
+ORD00038,DTDC,National
+ORD00039,DTDC,Regional
+ORD00040,BlueDart,National
+ORD00041,DTDC,National
+ORD00042,Delhivery,National
+ORD00043,Ecom Express,National
+ORD00044,BlueDart,Regional
+ORD00045,Delhivery,Local
+ORD00046,Delhivery,Regional
+ORD00047,Ecom Express,Local
+ORD00048,Delhivery,Regional
+ORD00049,Ecom Express,Regional
+ORD00050,Ecom Express,Regional
+ORD00051,BlueDart,National
+ORD00052,DTDC,National
+ORD00053,Ecom Express,Local
+ORD00054,BlueDart,Regional
+ORD00055,Delhivery,Regional
+ORD00056,Delhivery,Regional
+ORD00057,BlueDart,National
+ORD00058,BlueDart,Regional
+ORD00059,BlueDart,Regional
+ORD00060,BlueDart,National
+ORD00061,Delhivery,National
+ORD00062,BlueDart,Local
+ORD00063,Ecom Express,Regional
+ORD00064,DTDC,Regional
+ORD00065,BlueDart,Local
+ORD00066,DTDC,Local
+ORD00067,DTDC,Regional
+ORD00068,Ecom Express,Regional
+ORD00069,BlueDart,Local
+ORD00070,BlueDart,Regional
+ORD00071,Ecom Express,National
+ORD00072,Ecom Express,Local
+ORD00073,DTDC,Local
+ORD00074,DTDC,National
+ORD00075,BlueDart,Local
+ORD00076,Delhivery,National
+ORD00077,BlueDart,Regional
+ORD00078,BlueDart,Local
+ORD00079,DTDC,Local
+ORD00080,BlueDart,Local
+ORD00081,Delhivery,Local
+ORD00082,Ecom Express,Local
+ORD00083,BlueDart,Regional
+ORD00084,Ecom Express,Local
+ORD00085,Ecom Express,Regional
+ORD00086,Delhivery,Regional
+ORD00087,BlueDart,Local
+ORD00088,Delhivery,Local
+ORD00089,Delhivery,Local
+ORD00090,Delhivery,Local
+ORD00091,BlueDart,Regional
+ORD00092,Ecom Express,Local
+ORD00093,BlueDart,National
+ORD00094,DTDC,Regional
+ORD00095,BlueDart,Regional
+ORD00096,Delhivery,Regional
+ORD00097,Ecom Express,Regional
+ORD00098,BlueDart,Local
+ORD00099,BlueDart,Local
+ORD00100,DTDC,Regional
+ORD00101,DTDC,Local
+ORD00102,DTDC,Regional
+ORD00103,Delhivery,Regional
+ORD00104,BlueDart,Regional
+ORD00105,Ecom Express,Regional
+ORD00106,Ecom Express,Regional
+ORD00107,Delhivery,Regional
+ORD00108,DTDC,Regional
+ORD00109,Delhivery,Regional
+ORD00110,Delhivery,Regional
+ORD00111,BlueDart,National
+ORD00112,Delhivery,Regional
+ORD00113,Delhivery,Regional
+ORD00114,BlueDart,National
+ORD00115,Delhivery,Regional
+ORD00116,DTDC,Local
+ORD00117,DTDC,National
+ORD00118,Delhivery,Local
+ORD00119,Ecom Express,Regional
+ORD00120,BlueDart,National
+ORD00121,Delhivery,National
+ORD00122,DTDC,Local
+ORD00123,Delhivery,Regional
+ORD00124,Delhivery,Regional
+ORD00125,BlueDart,Local
+ORD00126,Ecom Express,Local
+ORD00127,Delhivery,Regional
+ORD00128,Ecom Express,Regional
+ORD00129,Delhivery,Local
+ORD00130,DTDC,Regional
+ORD00131,DTDC,Regional
+ORD00132,DTDC,National
+ORD00133,Delhivery,National
+ORD00134,Delhivery,Regional
+ORD00135,DTDC,National
+ORD00136,Delhivery,National
+ORD00137,Delhivery,Local
+ORD00138,BlueDart,Local
+ORD00139,Ecom Express,Regional
+ORD00140,BlueDart,Regional
+ORD00141,Delhivery,Regional
+ORD00142,Delhivery,Regional
+ORD00143,Delhivery,Regional
+ORD00144,DTDC,Regional
+ORD00145,BlueDart,Local
+ORD00146,Delhivery,National
+ORD00147,DTDC,Local
+ORD00148,DTDC,National
+ORD00149,BlueDart,Local
+ORD00150,Ecom Express,National
+ORD00151,DTDC,Local
+ORD00152,Ecom Express,Local
+ORD00153,Delhivery,Local
+ORD00154,Delhivery,Regional
+ORD00155,Ecom Express,National
+ORD00156,Ecom Express,Regional
+ORD00157,Delhivery,National
+ORD00158,BlueDart,Regional
+ORD00159,Delhivery,Regional
+ORD00160,Delhivery,National
+ORD00161,BlueDart,Local
+ORD00162,BlueDart,Regional
+ORD00163,Ecom Express,National
+ORD00164,BlueDart,National
+ORD00165,DTDC,National
+ORD00166,BlueDart,National
+ORD00167,Delhivery,Local
+ORD00168,BlueDart,National
+ORD00169,BlueDart,Regional
+ORD00170,DTDC,National
+ORD00171,Ecom Express,Regional
+ORD00172,BlueDart,Regional
+ORD00173,Delhivery,Regional
+ORD00174,Delhivery,Local
+ORD00175,Ecom Express,Local
+ORD00176,DTDC,National
+ORD00177,Delhivery,National
+ORD00178,DTDC,Local
+ORD00179,DTDC,National
+ORD00180,BlueDart,Regional
+ORD00181,Delhivery,Regional
+ORD00182,Ecom Express,Local
+ORD00183,DTDC,National
+ORD00184,Delhivery,Regional
+ORD00185,Delhivery,Regional
+ORD00186,Delhivery,Regional
+ORD00187,Delhivery,Local
+ORD00188,DTDC,Regional
+ORD00189,Delhivery,Local
+ORD00190,DTDC,Local
+ORD00191,Ecom Express,Regional
+ORD00192,BlueDart,National
+ORD00193,Delhivery,Regional
+ORD00194,Delhivery,Local
+ORD00195,DTDC,Regional
+ORD00196,BlueDart,National
+ORD00197,Delhivery,Regional
+ORD00198,Ecom Express,National
+ORD00199,Delhivery,Regional
+ORD00200,Ecom Express,National
+ORD00201,Ecom Express,Local
+ORD00202,BlueDart,Local
+ORD00203,BlueDart,Regional
+ORD00204,Ecom Express,Regional
+ORD00205,Ecom Express,National
+ORD00206,BlueDart,National
+ORD00207,BlueDart,Local
+ORD00208,BlueDart,Local
+ORD00209,Ecom Express,Regional
+ORD00210,BlueDart,Local
+ORD00211,Delhivery,Regional
+ORD00212,DTDC,National
+ORD00213,BlueDart,National
+ORD00214,Delhivery,Regional
+ORD00215,BlueDart,National
+ORD00216,Ecom Express,Regional
+ORD00217,BlueDart,Local
+ORD00218,DTDC,Regional
+ORD00219,DTDC,Regional
+ORD00220,BlueDart,Regional
+ORD00221,BlueDart,Local
+ORD00222,Delhivery,Regional
+ORD00223,BlueDart,Regional
+ORD00224,DTDC,National
+ORD00225,DTDC,Regional
+ORD00226,Delhivery,National
+ORD00227,Delhivery,National
+ORD00228,Delhivery,Local
+ORD00229,DTDC,Regional
+ORD00230,Delhivery,National
+ORD00231,BlueDart,Regional
+ORD00232,BlueDart,National
+ORD00233,Delhivery,Local
+ORD00234,Delhivery,Local
+ORD00235,Delhivery,National
+ORD00236,BlueDart,National
+ORD00237,DTDC,National
+ORD00238,BlueDart,Regional
+ORD00239,BlueDart,National
+ORD00240,Delhivery,National
+ORD00241,BlueDart,National
+ORD00242,Delhivery,Regional
+ORD00243,Delhivery,Regional
+ORD00244,Delhivery,National
+ORD00245,Delhivery,Regional
+ORD00246,BlueDart,Regional
+ORD00247,BlueDart,Regional
+ORD00248,Ecom Express,Regional
+ORD00249,Delhivery,Regional
+ORD00250,Delhivery,Local
+ORD00251,BlueDart,National
+ORD00252,Delhivery,Regional
+ORD00253,Delhivery,Regional
+ORD00254,Delhivery,Local
+ORD00255,DTDC,Local
+ORD00256,BlueDart,Local
+ORD00257,BlueDart,Regional
+ORD00258,DTDC,Local
+ORD00259,Ecom Express,National
+ORD00260,BlueDart,Local
+ORD00261,Delhivery,Local
+ORD00262,BlueDart,Local
+ORD00263,BlueDart,Local
+ORD00264,Delhivery,National
+ORD00265,BlueDart,National
+ORD00266,DTDC,Regional
+ORD00267,Delhivery,Local
+ORD00268,BlueDart,Local
+ORD00269,BlueDart,Regional
+ORD00270,DTDC,National
+ORD00271,BlueDart,Local
+ORD00272,Delhivery,Regional
+ORD00273,Delhivery,Regional
+ORD00274,Delhivery,Local
+ORD00275,Delhivery,Regional
+ORD00276,BlueDart,Local
+ORD00277,BlueDart,National
+ORD00278,BlueDart,Local
+ORD00279,Delhivery,Regional
+ORD00280,DTDC,Local
+ORD00281,BlueDart,National
+ORD00282,BlueDart,Local
+ORD00283,Delhivery,National
+ORD00284,Delhivery,National
+ORD00285,Ecom Express,National
+ORD00286,Delhivery,Regional
+ORD00287,Delhivery,Regional
+ORD00288,Delhivery,Regional
+ORD00289,Ecom Express,Local
+ORD00290,DTDC,Regional
+ORD00291,Delhivery,Local
+ORD00292,BlueDart,National
+ORD00293,BlueDart,Local
+ORD00294,Delhivery,Regional
+ORD00295,DTDC,Regional
+ORD00296,Delhivery,Regional
+ORD00297,BlueDart,Regional
+ORD00298,DTDC,Local
+ORD00299,DTDC,Regional
+ORD00300,BlueDart,Local
+ORD00301,DTDC,National
+ORD00302,Delhivery,National
+ORD00303,Ecom Express,National
+ORD00304,DTDC,Local
+ORD00305,Delhivery,Local
+ORD00306,DTDC,Local
+ORD00307,Ecom Express,Local
+ORD00308,Delhivery,Local
+ORD00309,Delhivery,Regional
+ORD00310,DTDC,Local
+ORD00311,BlueDart,Regional
+ORD00312,Delhivery,National
+ORD00313,Ecom Express,Regional
+ORD00314,DTDC,Regional
+ORD00315,Delhivery,Regional
+ORD00316,BlueDart,Regional
+ORD00317,Delhivery,Local
+ORD00318,BlueDart,Regional
+ORD00319,BlueDart,Regional
+ORD00320,DTDC,National
+ORD00321,BlueDart,National
+ORD00322,Delhivery,Regional
+ORD00323,Delhivery,Regional
+ORD00324,Ecom Express,Local
+ORD00325,Delhivery,National
+ORD00326,BlueDart,Regional
+ORD00327,BlueDart,Local
+ORD00328,Delhivery,Local
+ORD00329,Delhivery,Local
+ORD00330,Delhivery,National
+ORD00331,Delhivery,Local
+ORD00332,BlueDart,Regional
+ORD00333,Delhivery,Regional
+ORD00334,Delhivery,Regional
+ORD00335,BlueDart,National
+ORD00336,BlueDart,National
+ORD00337,BlueDart,Regional
+ORD00338,BlueDart,Local
+ORD00339,Delhivery,Regional
+ORD00340,BlueDart,Regional
+ORD00341,BlueDart,Regional
+ORD00342,BlueDart,Regional
+ORD00343,Ecom Express,Local
+ORD00344,Ecom Express,Regional
+ORD00345,BlueDart,Local
+ORD00346,Delhivery,National
+ORD00347,BlueDart,Local
+ORD00348,Delhivery,Regional
+ORD00349,BlueDart,Local
+ORD00350,DTDC,Regional
+ORD00351,Delhivery,Regional
+ORD00352,Ecom Express,Local
+ORD00353,BlueDart,National
+ORD00354,DTDC,Regional
+ORD00355,DTDC,Regional
+ORD00356,BlueDart,Regional
+ORD00357,Delhivery,Regional
+ORD00358,BlueDart,Regional
+ORD00359,BlueDart,Regional
+ORD00360,BlueDart,Regional
+ORD00361,Delhivery,Regional
+ORD00362,Delhivery,Local
+ORD00363,Ecom Express,Local
+ORD00364,BlueDart,Local
+ORD00365,Ecom Express,Local
+ORD00366,BlueDart,Regional
+ORD00367,DTDC,National
+ORD00368,Delhivery,Local
+ORD00369,BlueDart,National
+ORD00370,Ecom Express,Regional
+ORD00371,Delhivery,National
+ORD00372,DTDC,Regional
+ORD00373,Delhivery,Regional
+ORD00374,Delhivery,Local
+ORD00375,Delhivery,Local
+ORD00376,DTDC,Local
+ORD00377,BlueDart,Regional
+ORD00378,DTDC,Local
+ORD00379,Ecom Express,National
+ORD00380,BlueDart,Local
+ORD00381,BlueDart,National
+ORD00382,DTDC,Local
+ORD00383,Delhivery,Local
+ORD00384,Delhivery,Local
+ORD00385,BlueDart,Regional
+ORD00386,Delhivery,Local
+ORD00387,BlueDart,National
+ORD00388,Delhivery,Local
+ORD00389,DTDC,Regional
+ORD00390,BlueDart,National
+ORD00391,Delhivery,Local
+ORD00392,Ecom Express,National
+ORD00393,DTDC,National
+ORD00394,DTDC,Local
+ORD00395,Delhivery,Local
+ORD00396,DTDC,Regional
+ORD00397,BlueDart,National
+ORD00398,BlueDart,Regional
+ORD00399,BlueDart,Regional
+ORD00400,Delhivery,National
+ORD00401,DTDC,Local
+ORD00402,Delhivery,National
+ORD00403,DTDC,Regional
+ORD00404,DTDC,Regional
+ORD00405,Delhivery,National
+ORD00406,Delhivery,Regional
+ORD00407,Delhivery,Local
+ORD00408,Delhivery,Regional
+ORD00409,BlueDart,Regional
+ORD00410,Ecom Express,Local
+ORD00411,BlueDart,National
+ORD00412,BlueDart,Local
+ORD00413,Ecom Express,Regional
+ORD00414,Delhivery,Regional
+ORD00415,DTDC,Local
+ORD00416,Delhivery,National
+ORD00417,Delhivery,National
+ORD00418,BlueDart,Regional
+ORD00419,Delhivery,Local
+ORD00420,Delhivery,Local
+ORD00421,DTDC,Regional
+ORD00422,Delhivery,Local
+ORD00423,Ecom Express,Regional
+ORD00424,BlueDart,National
+ORD00425,Delhivery,Regional
+ORD00426,Delhivery,National
+ORD00427,Ecom Express,Regional
+ORD00428,BlueDart,Regional
+ORD00429,Delhivery,National
+ORD00430,Ecom Express,Regional
+ORD00431,BlueDart,National
+ORD00432,Ecom Express,Local
+ORD00433,BlueDart,Local
+ORD00434,DTDC,National
+ORD00435,Ecom Express,Regional
+ORD00436,DTDC,National
+ORD00437,Delhivery,National
+ORD00438,BlueDart,Local
+ORD00439,Ecom Express,Regional
+ORD00440,Delhivery,Regional
+ORD00441,BlueDart,Regional
+ORD00442,DTDC,National
+ORD00443,Delhivery,Local
+ORD00444,BlueDart,Regional
+ORD00445,BlueDart,Regional
+ORD00446,BlueDart,Local
+ORD00447,Delhivery,National
+ORD00448,Delhivery,Regional
+ORD00449,Delhivery,National
+ORD00450,DTDC,Local
+ORD00451,Ecom Express,Local
+ORD00452,Delhivery,Regional
+ORD00453,BlueDart,Local
+ORD00454,DTDC,National
+ORD00455,Delhivery,Local
+ORD00456,Delhivery,National
+ORD00457,Delhivery,Regional
+ORD00458,Delhivery,Regional
+ORD00459,Ecom Express,Local
+ORD00460,BlueDart,Regional
+ORD00461,DTDC,Regional
+ORD00462,BlueDart,Local
+ORD00463,Ecom Express,National
+ORD00464,BlueDart,Local
+ORD00465,BlueDart,Regional
+ORD00466,Delhivery,Regional
+ORD00467,Delhivery,Local
+ORD00468,BlueDart,National
+ORD00469,Delhivery,Regional
+ORD00470,Delhivery,Local
+ORD00471,BlueDart,Regional
+ORD00472,Delhivery,Regional
+ORD00473,DTDC,Regional
+ORD00474,DTDC,Regional
+ORD00475,DTDC,Local
+ORD00476,DTDC,Local
+ORD00477,Delhivery,National
+ORD00478,BlueDart,Local
+ORD00479,BlueDart,National
+ORD00480,DTDC,Local
+ORD00481,Ecom Express,National
+ORD00482,Delhivery,Regional
+ORD00483,BlueDart,Regional
+ORD00484,BlueDart,Local
+ORD00485,Delhivery,Local
+ORD00486,Delhivery,Local
+ORD00487,BlueDart,Local
+ORD00488,Ecom Express,Local
+ORD00489,Delhivery,Regional
+ORD00490,Ecom Express,Regional
+ORD00491,DTDC,National
+ORD00492,DTDC,Regional
+ORD00493,Delhivery,Regional
+ORD00494,Delhivery,Regional
+ORD00495,Delhivery,Regional
+ORD00496,Delhivery,Regional
+ORD00497,Delhivery,National
+ORD00498,Ecom Express,Local
+ORD00499,DTDC,Local
+ORD00500,DTDC,Regional
+ORD00501,Ecom Express,Local
+ORD00502,BlueDart,National
+ORD00503,BlueDart,National
+ORD00504,Delhivery,Local
+ORD00505,Delhivery,Local
+ORD00506,DTDC,Regional
+ORD00507,Delhivery,Regional
+ORD00508,Delhivery,Local
+ORD00509,Delhivery,Regional
+ORD00510,BlueDart,Regional
+ORD00511,Delhivery,Local
+ORD00512,DTDC,Local
+ORD00513,BlueDart,National
+ORD00514,Delhivery,Local
+ORD00515,Delhivery,National
+ORD00516,BlueDart,Regional
+ORD00517,BlueDart,Regional
+ORD00518,Ecom Express,National
+ORD00519,Delhivery,National
+ORD00520,BlueDart,Regional
+ORD00521,BlueDart,Local
+ORD00522,DTDC,National
+ORD00523,Delhivery,Regional
+ORD00524,Delhivery,Local
+ORD00525,BlueDart,National
+ORD00526,Ecom Express,Local
+ORD00527,Delhivery,Local
+ORD00528,Delhivery,Local
+ORD00529,Delhivery,Regional
+ORD00530,Delhivery,Regional
+ORD00531,Ecom Express,Local
+ORD00532,Ecom Express,Local
+ORD00533,Delhivery,Local
+ORD00534,Ecom Express,Regional
+ORD00535,DTDC,Local
+ORD00536,Ecom Express,National
+ORD00537,BlueDart,Local
+ORD00538,Delhivery,National
+ORD00539,BlueDart,Local
+ORD00540,DTDC,National
+ORD00541,BlueDart,Local
+ORD00542,Delhivery,Local
+ORD00543,Delhivery,National
+ORD00544,Delhivery,National
+ORD00545,Delhivery,Regional
+ORD00546,Ecom Express,Regional
+ORD00547,Delhivery,Regional
+ORD00548,Ecom Express,National
+ORD00549,BlueDart,Local
+ORD00550,Delhivery,Regional
+ORD00551,Delhivery,Regional
+ORD00552,BlueDart,Regional
+ORD00553,Delhivery,National
+ORD00554,DTDC,Local
+ORD00555,Delhivery,Local
+ORD00556,DTDC,Regional
+ORD00557,Delhivery,Regional
+ORD00558,BlueDart,Local
+ORD00559,BlueDart,Regional
+ORD00560,Delhivery,National
+ORD00561,BlueDart,Local
+ORD00562,BlueDart,Regional
+ORD00563,Delhivery,Regional
+ORD00564,Delhivery,Regional
+ORD00565,Delhivery,National
+ORD00566,DTDC,Regional
+ORD00567,Delhivery,Regional
+ORD00568,Delhivery,Regional
+ORD00569,DTDC,Regional
+ORD00570,Delhivery,Regional
+ORD00571,Delhivery,National
+ORD00572,Delhivery,Regional
+ORD00573,BlueDart,Local
+ORD00574,DTDC,Local
+ORD00575,Delhivery,Local
+ORD00576,Ecom Express,Local
+ORD00577,DTDC,National
+ORD00578,Delhivery,Regional
+ORD00579,BlueDart,Regional
+ORD00580,BlueDart,Regional
+ORD00581,Delhivery,National
+ORD00582,Delhivery,Regional
+ORD00583,BlueDart,National
+ORD00584,Delhivery,Regional
+ORD00585,BlueDart,National
+ORD00586,Ecom Express,Regional
+ORD00587,BlueDart,Local
+ORD00588,Ecom Express,Regional
+ORD00589,Ecom Express,Regional
+ORD00590,Delhivery,Local
+ORD00591,DTDC,Regional
+ORD00592,Delhivery,Local
+ORD00593,Delhivery,Local
+ORD00594,Delhivery,National
+ORD00595,Delhivery,Regional
+ORD00596,Delhivery,National
+ORD00597,Delhivery,Regional
+ORD00598,Delhivery,Regional
+ORD00599,BlueDart,Regional
+ORD00600,Delhivery,Regional
+ORD00601,BlueDart,National
+ORD00602,BlueDart,Local
+ORD00603,BlueDart,National
+ORD00604,BlueDart,National
+ORD00605,BlueDart,Regional
+ORD00606,DTDC,National
+ORD00607,BlueDart,Regional
+ORD00608,DTDC,National
+ORD00609,BlueDart,Regional
+ORD00610,Ecom Express,Local
+ORD00611,Delhivery,National
+ORD00612,Delhivery,Regional
+ORD00613,Delhivery,Regional
+ORD00614,Delhivery,Regional
+ORD00615,Delhivery,Local
+ORD00616,BlueDart,Regional
+ORD00617,Ecom Express,National
+ORD00618,Delhivery,Local
+ORD00619,Delhivery,Local
+ORD00620,DTDC,Local
+ORD00621,Delhivery,Regional
+ORD00622,DTDC,Regional
+ORD00623,Delhivery,National
+ORD00624,DTDC,National
+ORD00625,BlueDart,Regional
+ORD00626,DTDC,Local
+ORD00627,DTDC,National
+ORD00628,BlueDart,National
+ORD00629,BlueDart,Regional
+ORD00630,Delhivery,Regional
+ORD00631,Ecom Express,National
+ORD00632,BlueDart,Regional
+ORD00633,Delhivery,Regional
+ORD00634,BlueDart,Regional
+ORD00635,Delhivery,Local
+ORD00636,Delhivery,Regional
+ORD00637,Ecom Express,Regional
+ORD00638,Delhivery,Local
+ORD00639,DTDC,Local
+ORD00640,Delhivery,Local
+ORD00641,BlueDart,Regional
+ORD00642,Delhivery,National
+ORD00643,Delhivery,National
+ORD00644,Ecom Express,Local
+ORD00645,Ecom Express,Regional
+ORD00646,BlueDart,National
+ORD00647,BlueDart,Local
+ORD00648,BlueDart,Regional
+ORD00649,Ecom Express,National
+ORD00650,Ecom Express,Local
+ORD00651,DTDC,National
+ORD00652,Delhivery,National
+ORD00653,Delhivery,Local
+ORD00654,Delhivery,Local
+ORD00655,BlueDart,Local
+ORD00656,Delhivery,Local
+ORD00657,BlueDart,Regional
+ORD00658,BlueDart,Regional
+ORD00659,Ecom Express,Local
+ORD00660,DTDC,National
+ORD00661,Delhivery,Regional
+ORD00662,Delhivery,Local
+ORD00663,Delhivery,Local
+ORD00664,DTDC,Regional
+ORD00665,DTDC,Regional
+ORD00666,DTDC,Local
+ORD00667,DTDC,Local
+ORD00668,BlueDart,National
+ORD00669,Delhivery,National
+ORD00670,Delhivery,Local
+ORD00671,Delhivery,Regional
+ORD00672,DTDC,Regional
+ORD00673,Delhivery,Regional
+ORD00674,BlueDart,Regional
+ORD00675,Delhivery,National
+ORD00676,Ecom Express,Regional
+ORD00677,BlueDart,Regional
+ORD00678,Delhivery,Regional
+ORD00679,Delhivery,National
+ORD00680,BlueDart,National
+ORD00681,Delhivery,Local
+ORD00682,DTDC,Local
+ORD00683,Delhivery,Regional
+ORD00684,Ecom Express,Local
+ORD00685,BlueDart,Regional
+ORD00686,BlueDart,National
+ORD00687,Ecom Express,Regional
+ORD00688,Delhivery,National
+ORD00689,Delhivery,Local
+ORD00690,DTDC,National
+ORD00691,Delhivery,National
+ORD00692,DTDC,Regional
+ORD00693,BlueDart,Regional
+ORD00694,BlueDart,Local
+ORD00695,BlueDart,National
+ORD00696,DTDC,Regional
+ORD00697,BlueDart,Local
+ORD00698,DTDC,Regional
+ORD00699,Ecom Express,Regional
+ORD00700,Delhivery,Local
+ORD00701,Delhivery,Local
+ORD00702,Delhivery,Regional
+ORD00703,Delhivery,Regional
+ORD00704,Delhivery,National
+ORD00705,Delhivery,National
+ORD00706,Ecom Express,Regional
+ORD00707,Ecom Express,National
+ORD00708,Ecom Express,Regional
+ORD00709,Ecom Express,Regional
+ORD00710,Delhivery,Local
+ORD00711,DTDC,Regional
+ORD00712,Ecom Express,Regional
+ORD00713,Delhivery,Local
+ORD00714,Ecom Express,Regional
+ORD00715,Delhivery,National
+ORD00716,Delhivery,Regional
+ORD00717,DTDC,Regional
+ORD00718,Ecom Express,National
+ORD00719,BlueDart,National
+ORD00720,DTDC,Local
+ORD00721,Delhivery,Local
+ORD00722,BlueDart,Regional
+ORD00723,DTDC,Regional
+ORD00724,Delhivery,Local
+ORD00725,DTDC,Local
+ORD00726,Delhivery,National
+ORD00727,Delhivery,Regional
+ORD00728,Delhivery,National
+ORD00729,Delhivery,National
+ORD00730,BlueDart,National
+ORD00731,Ecom Express,Local
+ORD00732,Delhivery,National
+ORD00733,DTDC,Local
+ORD00734,Delhivery,Regional
+ORD00735,Delhivery,Regional
+ORD00736,Delhivery,Local
+ORD00737,Delhivery,National
+ORD00738,Delhivery,National
+ORD00739,Delhivery,Local
+ORD00740,Delhivery,Regional
+ORD00741,BlueDart,Regional
+ORD00742,Delhivery,Regional
+ORD00743,BlueDart,National
+ORD00744,BlueDart,Local
+ORD00745,Ecom Express,National
+ORD00746,Delhivery,Local
+ORD00747,DTDC,Regional
+ORD00748,Delhivery,Regional
+ORD00749,Ecom Express,Local
+ORD00750,Delhivery,Local
+ORD00751,DTDC,National
+ORD00752,Delhivery,National
+ORD00753,Ecom Express,Local
+ORD00754,DTDC,Regional
+ORD00755,Ecom Express,Local
+ORD00756,BlueDart,Local
+ORD00757,BlueDart,Regional
+ORD00758,BlueDart,Local
+ORD00759,BlueDart,National
+ORD00760,Ecom Express,Regional
+ORD00761,BlueDart,National
+ORD00762,BlueDart,Regional
+ORD00763,BlueDart,National
+ORD00764,BlueDart,Regional
+ORD00765,BlueDart,Regional
+ORD00766,DTDC,National
+ORD00767,Delhivery,Regional
+ORD00768,BlueDart,Local
+ORD00769,Delhivery,Regional
+ORD00770,Delhivery,National
+ORD00771,BlueDart,National
+ORD00772,DTDC,Regional
+ORD00773,DTDC,Regional
+ORD00774,DTDC,National
+ORD00775,DTDC,Local
+ORD00776,BlueDart,Regional
+ORD00777,Ecom Express,Local
+ORD00778,DTDC,Regional
+ORD00779,Ecom Express,Regional
+ORD00780,BlueDart,Local
+ORD00781,Ecom Express,Local
+ORD00782,DTDC,Regional
+ORD00783,DTDC,Local
+ORD00784,BlueDart,Local
+ORD00785,DTDC,National
+ORD00786,Ecom Express,Local
+ORD00787,DTDC,Regional
+ORD00788,Delhivery,National
+ORD00789,Ecom Express,Local
+ORD00790,Delhivery,Regional
+ORD00791,Delhivery,Regional
+ORD00792,Delhivery,National
+ORD00793,Ecom Express,National
+ORD00794,BlueDart,National
+ORD00795,Delhivery,National
+ORD00796,DTDC,Local
+ORD00797,DTDC,Local
+ORD00798,Delhivery,Regional
+ORD00799,Ecom Express,Local
+ORD00800,Ecom Express,Regional
+ORD00801,BlueDart,Regional
+ORD00802,Delhivery,Local
+ORD00803,BlueDart,National
+ORD00804,Delhivery,Local
+ORD00805,Delhivery,Regional
+ORD00806,Ecom Express,Regional
+ORD00807,DTDC,Regional
+ORD00808,BlueDart,Regional
+ORD00809,BlueDart,Local
+ORD00810,Delhivery,Regional
+ORD00811,Delhivery,National
+ORD00812,BlueDart,National
+ORD00813,Ecom Express,Regional
+ORD00814,Ecom Express,Regional
+ORD00815,Delhivery,Regional
+ORD00816,Ecom Express,National
+ORD00817,Delhivery,Local
+ORD00818,DTDC,Regional
+ORD00819,Delhivery,National
+ORD00820,BlueDart,Regional
+ORD00821,Ecom Express,Local
+ORD00822,Delhivery,Regional
+ORD00823,DTDC,Local
+ORD00824,Delhivery,Regional
+ORD00825,BlueDart,Regional
+ORD00826,BlueDart,National
+ORD00827,Delhivery,Regional
+ORD00828,DTDC,Local
+ORD00829,Delhivery,Local
+ORD00830,DTDC,National
+ORD00831,DTDC,Local
+ORD00832,DTDC,Regional
+ORD00833,Delhivery,Local
+ORD00834,Ecom Express,National
+ORD00835,Delhivery,Regional
+ORD00836,Delhivery,Regional
+ORD00837,BlueDart,Regional
+ORD00838,Delhivery,National
+ORD00839,BlueDart,Regional
+ORD00840,Delhivery,Regional
+ORD00841,BlueDart,National
+ORD00842,Delhivery,National
+ORD00843,DTDC,Local
+ORD00844,Delhivery,National
+ORD00845,BlueDart,Local
+ORD00846,BlueDart,Regional
+ORD00847,DTDC,National
+ORD00848,BlueDart,Local
+ORD00849,Delhivery,Local
+ORD00850,Delhivery,Local
+ORD00851,DTDC,Regional
+ORD00852,Delhivery,Regional
+ORD00853,DTDC,Regional
+ORD00854,BlueDart,National
+ORD00855,BlueDart,Regional
+ORD00856,BlueDart,Local
+ORD00857,BlueDart,National
+ORD00858,BlueDart,Local
+ORD00859,Delhivery,Local
+ORD00860,Delhivery,Local
+ORD00861,DTDC,Regional
+ORD00862,Delhivery,Local
+ORD00863,DTDC,Local
+ORD00864,Delhivery,Local
+ORD00865,BlueDart,Local
+ORD00866,Delhivery,Regional
+ORD00867,BlueDart,National
+ORD00868,BlueDart,National
+ORD00869,Delhivery,Local
+ORD00870,Ecom Express,Local
+ORD00871,DTDC,National
+ORD00872,BlueDart,Local
+ORD00873,DTDC,National
+ORD00874,DTDC,Local
+ORD00875,Delhivery,National
+ORD00876,DTDC,Local
+ORD00877,Delhivery,Regional
+ORD00878,BlueDart,Regional
+ORD00879,Delhivery,Regional
+ORD00880,Delhivery,Local
+ORD00881,Delhivery,Regional
+ORD00882,Delhivery,Regional
+ORD00883,Ecom Express,Local
+ORD00884,Ecom Express,Local
+ORD00885,Ecom Express,Regional
+ORD00886,DTDC,Local
+ORD00887,Ecom Express,Regional
+ORD00888,BlueDart,Local
+ORD00889,BlueDart,Regional
+ORD00890,Delhivery,Local
+ORD00891,DTDC,Regional
+ORD00892,Delhivery,Local
+ORD00893,DTDC,Local
+ORD00894,BlueDart,Local
+ORD00895,BlueDart,National
+ORD00896,DTDC,Local
+ORD00897,BlueDart,Regional
+ORD00898,Delhivery,Local
+ORD00899,BlueDart,Local
+ORD00900,Delhivery,Regional
+ORD00901,DTDC,Regional
+ORD00902,Delhivery,National
+ORD00903,Delhivery,National
+ORD00904,BlueDart,National
+ORD00905,DTDC,Regional
+ORD00906,Delhivery,Regional
+ORD00907,Delhivery,Regional
+ORD00908,DTDC,National
+ORD00909,BlueDart,Regional
+ORD00910,Ecom Express,Regional
+ORD00911,Delhivery,Local
+ORD00912,Delhivery,Local
+ORD00913,BlueDart,National
+ORD00914,Ecom Express,Local
+ORD00915,DTDC,Regional
+ORD00916,BlueDart,Local
+ORD00917,Delhivery,National
+ORD00918,DTDC,Local
+ORD00919,DTDC,National
+ORD00920,DTDC,Local
+ORD00921,Delhivery,National
+ORD00922,DTDC,Regional
+ORD00923,Delhivery,Local
+ORD00924,BlueDart,Regional
+ORD00925,Delhivery,Local
+ORD00926,Ecom Express,Local
+ORD00927,Delhivery,National
+ORD00928,Delhivery,Regional
+ORD00929,DTDC,Regional
+ORD00930,Delhivery,Local
+ORD00931,DTDC,Regional
+ORD00932,DTDC,National
+ORD00933,BlueDart,Regional
+ORD00934,Ecom Express,National
+ORD00935,DTDC,National
+ORD00936,Ecom Express,Local
+ORD00937,DTDC,Local
+ORD00938,Ecom Express,National
+ORD00939,BlueDart,Regional
+ORD00940,Delhivery,Local
+ORD00941,Ecom Express,Local
+ORD00942,BlueDart,Regional
+ORD00943,BlueDart,National
+ORD00944,DTDC,Local
+ORD00945,DTDC,Local
+ORD00946,BlueDart,National
+ORD00947,Ecom Express,National
+ORD00948,DTDC,Regional
+ORD00949,Delhivery,National
+ORD00950,DTDC,Regional
+ORD00951,Delhivery,National
+ORD00952,BlueDart,Regional
+ORD00953,BlueDart,Local
+ORD00954,Delhivery,Regional
+ORD00955,Delhivery,Regional
+ORD00956,DTDC,National
+ORD00957,DTDC,Local
+ORD00958,Delhivery,National
+ORD00959,DTDC,National
+ORD00960,BlueDart,Local
+ORD00961,BlueDart,National
+ORD00962,Ecom Express,Regional
+ORD00963,BlueDart,National
+ORD00964,BlueDart,Regional
+ORD00965,DTDC,Regional
+ORD00966,Delhivery,Regional
+ORD00967,Ecom Express,Local
+ORD00968,BlueDart,Local
+ORD00969,BlueDart,Regional
+ORD00970,Delhivery,National
+ORD00971,Delhivery,Regional
+ORD00972,Delhivery,Regional
+ORD00973,Delhivery,Local
+ORD00974,Ecom Express,Regional
+ORD00975,Ecom Express,Local
+ORD00976,BlueDart,National
+ORD00977,Delhivery,National
+ORD00978,Delhivery,Regional
+ORD00979,Ecom Express,Local
+ORD00980,Ecom Express,Local
+ORD00981,BlueDart,Regional
+ORD00982,DTDC,Regional
+ORD00983,Delhivery,National
+ORD00984,BlueDart,Local
+ORD00985,BlueDart,National
+ORD00986,Delhivery,Regional
+ORD00987,Delhivery,Local
+ORD00988,BlueDart,Regional
+ORD00989,DTDC,Local
+ORD00990,BlueDart,Regional
+ORD00991,Delhivery,National
+ORD00992,Delhivery,Regional
+ORD00993,BlueDart,National
+ORD00994,Delhivery,Regional
+ORD00995,BlueDart,Local
+ORD00996,Delhivery,Regional
+ORD00997,BlueDart,Regional
+ORD00998,Delhivery,Regional
+ORD00999,BlueDart,Local
+ORD01000,DTDC,Regional
+ORD01001,DTDC,Local
+ORD01002,BlueDart,Local
+ORD01003,Delhivery,Regional
+ORD01004,BlueDart,Local
+ORD01005,Delhivery,National
+ORD01006,BlueDart,Regional
+ORD01007,Delhivery,National
+ORD01008,Delhivery,Regional
+ORD01009,Ecom Express,Regional
+ORD01010,Delhivery,Local
+ORD01011,Delhivery,National
+ORD01012,Delhivery,Regional
+ORD01013,Ecom Express,National
+ORD01014,DTDC,Regional
+ORD01015,BlueDart,Local
+ORD01016,DTDC,Regional
+ORD01017,Delhivery,Local
+ORD01018,DTDC,Regional
+ORD01019,DTDC,Local
+ORD01020,BlueDart,Regional
+ORD01021,DTDC,National
+ORD01022,BlueDart,Regional
+ORD01023,BlueDart,National
+ORD01024,BlueDart,Regional
+ORD01025,DTDC,Regional
+ORD01026,BlueDart,National
+ORD01027,BlueDart,National
+ORD01028,DTDC,National
+ORD01029,BlueDart,Local
+ORD01030,BlueDart,Regional
+ORD01031,BlueDart,Local
+ORD01032,Delhivery,Regional
+ORD01033,Delhivery,Regional
+ORD01034,BlueDart,National
+ORD01035,Ecom Express,National
+ORD01036,DTDC,Regional
+ORD01037,Delhivery,Local
+ORD01038,Delhivery,National
+ORD01039,Delhivery,Local
+ORD01040,Delhivery,Regional
+ORD01041,BlueDart,Local
+ORD01042,BlueDart,Regional
+ORD01043,Ecom Express,National
+ORD01044,BlueDart,Local
+ORD01045,Delhivery,Regional
+ORD01046,Ecom Express,Local
+ORD01047,DTDC,National
+ORD01048,Delhivery,National
+ORD01049,DTDC,Local
+ORD01050,BlueDart,Local
+ORD01051,DTDC,Regional
+ORD01052,Delhivery,Local
+ORD01053,DTDC,Regional
+ORD01054,Ecom Express,Local
+ORD01055,Ecom Express,Local
+ORD01056,Ecom Express,Regional
+ORD01057,Delhivery,Local
+ORD01058,Delhivery,National
+ORD01059,Delhivery,Local
+ORD01060,DTDC,Local
+ORD01061,Ecom Express,National
+ORD01062,BlueDart,Regional
+ORD01063,Ecom Express,Regional
+ORD01064,DTDC,Local
+ORD01065,Ecom Express,Regional
+ORD01066,Ecom Express,Regional
+ORD01067,BlueDart,Local
+ORD01068,BlueDart,National
+ORD01069,BlueDart,Regional
+ORD01070,BlueDart,Regional
+ORD01071,Delhivery,Regional
+ORD01072,DTDC,Regional
+ORD01073,Ecom Express,Local
+ORD01074,Delhivery,Regional
+ORD01075,BlueDart,Local
+ORD01076,BlueDart,Regional
+ORD01077,BlueDart,National
+ORD01078,Delhivery,Regional
+ORD01079,Delhivery,National
+ORD01080,BlueDart,Local
+ORD01081,Delhivery,Regional
+ORD01082,BlueDart,National
+ORD01083,Delhivery,Regional
+ORD01084,Delhivery,Regional
+ORD01085,Delhivery,Local
+ORD01086,Delhivery,Regional
+ORD01087,Ecom Express,Local
+ORD01088,BlueDart,National
+ORD01089,Delhivery,Local
+ORD01090,DTDC,National
+ORD01091,Delhivery,Regional
+ORD01092,Ecom Express,Local
+ORD01093,Delhivery,Regional
+ORD01094,Delhivery,National
+ORD01095,BlueDart,National
+ORD01096,Delhivery,Local
+ORD01097,BlueDart,Local
+ORD01098,BlueDart,Local
+ORD01099,Delhivery,Local
+ORD01100,Delhivery,Regional
+ORD01101,BlueDart,National
+ORD01102,DTDC,Regional
+ORD01103,Delhivery,Regional
+ORD01104,BlueDart,Regional
+ORD01105,Delhivery,Regional
+ORD01106,DTDC,Local
+ORD01107,Delhivery,Regional
+ORD01108,Delhivery,National
+ORD01109,Delhivery,Regional
+ORD01110,Delhivery,Local
+ORD01111,Ecom Express,Local
+ORD01112,DTDC,Local
+ORD01113,BlueDart,Regional
+ORD01114,Delhivery,National
+ORD01115,Ecom Express,Local
+ORD01116,BlueDart,National
+ORD01117,Ecom Express,Regional
+ORD01118,Ecom Express,Regional
+ORD01119,BlueDart,National
+ORD01120,Ecom Express,Local
+ORD01121,Delhivery,National
+ORD01122,DTDC,Local
+ORD01123,Delhivery,Regional
+ORD01124,Delhivery,National
+ORD01125,Delhivery,National
+ORD01126,DTDC,Regional
+ORD01127,BlueDart,Regional
+ORD01128,Delhivery,Regional
+ORD01129,BlueDart,National
+ORD01130,Delhivery,Local
+ORD01131,Delhivery,National
+ORD01132,Delhivery,Regional
+ORD01133,Delhivery,Regional
+ORD01134,BlueDart,Regional
+ORD01135,BlueDart,Regional
+ORD01136,BlueDart,National
+ORD01137,Delhivery,Regional
+ORD01138,Ecom Express,National
+ORD01139,BlueDart,Local
+ORD01140,Ecom Express,Regional
+ORD01141,DTDC,National
+ORD01142,Delhivery,Regional
+ORD01143,Delhivery,Regional
+ORD01144,DTDC,Regional
+ORD01145,BlueDart,National
+ORD01146,Delhivery,National
+ORD01147,DTDC,Local
+ORD01148,Delhivery,National
+ORD01149,DTDC,Regional
+ORD01150,BlueDart,Local
+ORD01151,DTDC,National
+ORD01152,Delhivery,Regional
+ORD01153,Delhivery,National
+ORD01154,Delhivery,Local
+ORD01155,Delhivery,Local
+ORD01156,Ecom Express,Regional
+ORD01157,Delhivery,Local
+ORD01158,DTDC,National
+ORD01159,Delhivery,Local
+ORD01160,BlueDart,Regional
+ORD01161,BlueDart,Local
+ORD01162,BlueDart,Local
+ORD01163,Delhivery,National
+ORD01164,Delhivery,Local
+ORD01165,DTDC,Regional
+ORD01166,DTDC,National
+ORD01167,BlueDart,Regional
+ORD01168,BlueDart,National
+ORD01169,BlueDart,Local
+ORD01170,Delhivery,Local
+ORD01171,BlueDart,National
+ORD01172,BlueDart,Regional
+ORD01173,Ecom Express,Regional
+ORD01174,DTDC,Regional
+ORD01175,BlueDart,Regional
+ORD01176,Delhivery,Local
+ORD01177,Delhivery,National
+ORD01178,DTDC,Regional
+ORD01179,Delhivery,Regional
+ORD01180,BlueDart,National
+ORD01181,DTDC,Local
+ORD01182,Delhivery,Local
+ORD01183,BlueDart,National
+ORD01184,Delhivery,National
+ORD01185,Delhivery,Regional
+ORD01186,Delhivery,Local
+ORD01187,BlueDart,Local
+ORD01188,Delhivery,Regional
+ORD01189,BlueDart,Regional
+ORD01190,DTDC,National
+ORD01191,BlueDart,National
+ORD01192,BlueDart,National
+ORD01193,DTDC,Regional
+ORD01194,DTDC,National
+ORD01195,DTDC,Regional
+ORD01196,Delhivery,Local
+ORD01197,BlueDart,Local
+ORD01198,DTDC,Regional
+ORD01199,DTDC,National
+ORD01200,BlueDart,Local
+ORD01201,Ecom Express,Local
+ORD01202,BlueDart,National
+ORD01203,Ecom Express,Local
+ORD01204,Ecom Express,National
+ORD01205,DTDC,Local
+ORD01206,Ecom Express,Local
+ORD01207,DTDC,National
+ORD01208,BlueDart,Local
+ORD01209,Delhivery,Regional
+ORD01210,BlueDart,Local
+ORD01211,Delhivery,Local
+ORD01212,DTDC,Local
+ORD01213,Delhivery,Local
+ORD01214,Delhivery,Local
+ORD01215,Delhivery,National
+ORD01216,Ecom Express,Regional
+ORD01217,BlueDart,Local
+ORD01218,Delhivery,Regional
+ORD01219,BlueDart,National
+ORD01220,DTDC,National
+ORD01221,BlueDart,Regional
+ORD01222,DTDC,National
+ORD01223,BlueDart,Local
+ORD01224,BlueDart,Regional
+ORD01225,Ecom Express,Regional
+ORD01226,BlueDart,Regional
+ORD01227,Delhivery,Regional
+ORD01228,BlueDart,Regional
+ORD01229,Delhivery,National
+ORD01230,Delhivery,National
+ORD01231,Delhivery,Regional
+ORD01232,BlueDart,Regional
+ORD01233,Delhivery,Local
+ORD01234,DTDC,Local
+ORD01235,DTDC,Regional
+ORD01236,Delhivery,Regional
+ORD01237,Delhivery,Local
+ORD01238,BlueDart,National
+ORD01239,BlueDart,Regional
+ORD01240,BlueDart,Regional
+ORD01241,BlueDart,Local
+ORD01242,BlueDart,Local
+ORD01243,Delhivery,National
+ORD01244,Delhivery,Regional
+ORD01245,Ecom Express,National
+ORD01246,BlueDart,National
+ORD01247,Delhivery,Regional
+ORD01248,DTDC,Local
+ORD01249,Delhivery,National
+ORD01250,BlueDart,National
+ORD01251,BlueDart,Regional
+ORD01252,BlueDart,National
+ORD01253,Delhivery,National
+ORD01254,DTDC,Regional
+ORD01255,BlueDart,Regional
+ORD01256,BlueDart,National
+ORD01257,DTDC,Regional
+ORD01258,DTDC,Local
+ORD01259,Delhivery,Local
+ORD01260,DTDC,Local
+ORD01261,Delhivery,Local
+ORD01262,BlueDart,National
+ORD01263,Delhivery,Local
+ORD01264,Delhivery,Local
+ORD01265,Ecom Express,Local
+ORD01266,BlueDart,Regional
+ORD01267,Delhivery,Regional
+ORD01268,Delhivery,Local
+ORD01269,Delhivery,Local
+ORD01270,BlueDart,Local
+ORD01271,Delhivery,Regional
+ORD01272,DTDC,Local
+ORD01273,Delhivery,National
+ORD01274,Delhivery,Regional
+ORD01275,BlueDart,Local
+ORD01276,BlueDart,Regional
+ORD01277,Delhivery,Local
+ORD01278,DTDC,Regional
+ORD01279,Ecom Express,Local
+ORD01280,Delhivery,Regional
+ORD01281,Delhivery,National
+ORD01282,DTDC,National
+ORD01283,Delhivery,Local
+ORD01284,Delhivery,Local
+ORD01285,BlueDart,Regional
+ORD01286,DTDC,National
+ORD01287,Delhivery,National
+ORD01288,DTDC,Local
+ORD01289,DTDC,Local
+ORD01290,BlueDart,Regional
+ORD01291,DTDC,Local
+ORD01292,DTDC,Local
+ORD01293,Delhivery,Local
+ORD01294,BlueDart,Regional
+ORD01295,BlueDart,National
+ORD01296,Delhivery,National
+ORD01297,Delhivery,Regional
+ORD01298,Delhivery,Regional
+ORD01299,BlueDart,National
+ORD01300,Ecom Express,Local
+ORD01301,BlueDart,Regional
+ORD01302,BlueDart,Regional
+ORD01303,Delhivery,Local
+ORD01304,Delhivery,Regional
+ORD01305,BlueDart,Local
+ORD01306,BlueDart,Regional
+ORD01307,BlueDart,Local
+ORD01308,DTDC,Local
+ORD01309,DTDC,Local
+ORD01310,Delhivery,National
+ORD01311,DTDC,Regional
+ORD01312,DTDC,Regional
+ORD01313,BlueDart,Regional
+ORD01314,Ecom Express,Regional
+ORD01315,DTDC,Local
+ORD01316,BlueDart,Regional
+ORD01317,BlueDart,Local
+ORD01318,BlueDart,Local
+ORD01319,BlueDart,Regional
+ORD01320,DTDC,Local
+ORD01321,Delhivery,Local
+ORD01322,DTDC,Regional
+ORD01323,DTDC,Regional
+ORD01324,Delhivery,Regional
+ORD01325,DTDC,Regional
+ORD01326,BlueDart,Regional
+ORD01327,Delhivery,Regional
+ORD01328,Delhivery,Local
+ORD01329,BlueDart,Local
+ORD01330,BlueDart,Regional
+ORD01331,Ecom Express,Local
+ORD01332,DTDC,National
+ORD01333,BlueDart,National
+ORD01334,DTDC,Local
+ORD01335,DTDC,Local
+ORD01336,Delhivery,Local
+ORD01337,BlueDart,Local
+ORD01338,Ecom Express,Local
+ORD01339,Delhivery,Regional
+ORD01340,BlueDart,National
+ORD01341,Delhivery,Regional
+ORD01342,DTDC,Local
+ORD01343,BlueDart,Regional
+ORD01344,BlueDart,Regional
+ORD01345,BlueDart,National
+ORD01346,Ecom Express,National
+ORD01347,BlueDart,National
+ORD01348,Delhivery,Regional
+ORD01349,Ecom Express,Regional
+ORD01350,BlueDart,Local
+ORD01351,Ecom Express,Regional
+ORD01352,Ecom Express,Local
+ORD01353,Ecom Express,Regional
+ORD01354,BlueDart,Regional
+ORD01355,Delhivery,Local
+ORD01356,DTDC,Local
+ORD01357,Ecom Express,Local
+ORD01358,BlueDart,Local
+ORD01359,DTDC,Local
+ORD01360,Delhivery,Local
+ORD01361,BlueDart,Local
+ORD01362,Delhivery,Local
+ORD01363,DTDC,National
+ORD01364,Delhivery,Local
+ORD01365,Delhivery,Local
+ORD01366,Ecom Express,Regional
+ORD01367,Delhivery,National
+ORD01368,Delhivery,Regional
+ORD01369,Delhivery,Local
+ORD01370,Delhivery,Regional
+ORD01371,DTDC,Regional
+ORD01372,Ecom Express,Regional
+ORD01373,Delhivery,Regional
+ORD01374,DTDC,National
+ORD01375,BlueDart,National
+ORD01376,BlueDart,Regional
+ORD01377,Delhivery,Regional
+ORD01378,BlueDart,Regional
+ORD01379,BlueDart,National
+ORD01380,Delhivery,Local
+ORD01381,BlueDart,National
+ORD01382,BlueDart,Local
+ORD01383,Delhivery,Regional
+ORD01384,Delhivery,National
+ORD01385,Ecom Express,Local
+ORD01386,Delhivery,Regional
+ORD01387,Delhivery,Local
+ORD01388,Ecom Express,Regional
+ORD01389,DTDC,Local
+ORD01390,BlueDart,Regional
+ORD01391,BlueDart,Regional
+ORD01392,DTDC,National
+ORD01393,Delhivery,National
+ORD01394,DTDC,Local
+ORD01395,DTDC,Regional
+ORD01396,Delhivery,Local
+ORD01397,Ecom Express,Local
+ORD01398,Delhivery,Local
+ORD01399,BlueDart,National
+ORD01400,DTDC,National
+ORD01401,BlueDart,Local
+ORD01402,DTDC,Local
+ORD01403,Ecom Express,Local
+ORD01404,DTDC,Regional
+ORD01405,Delhivery,Regional
+ORD01406,Delhivery,Local
+ORD01407,Delhivery,National
+ORD01408,Delhivery,Local
+ORD01409,Delhivery,National
+ORD01410,DTDC,Regional
+ORD01411,DTDC,Regional
+ORD01412,BlueDart,National
+ORD01413,Delhivery,National
+ORD01414,DTDC,Local
+ORD01415,Delhivery,Local
+ORD01416,Delhivery,National
+ORD01417,DTDC,Local
+ORD01418,DTDC,Local
+ORD01419,Delhivery,Regional
+ORD01420,Ecom Express,National
+ORD01421,BlueDart,National
+ORD01422,Ecom Express,National
+ORD01423,BlueDart,Regional
+ORD01424,BlueDart,Local
+ORD01425,Ecom Express,Regional
+ORD01426,BlueDart,National
+ORD01427,DTDC,Local
+ORD01428,DTDC,Local
+ORD01429,Ecom Express,Local
+ORD01430,Ecom Express,Regional
+ORD01431,BlueDart,National
+ORD01432,DTDC,Regional
+ORD01433,BlueDart,National
+ORD01434,Delhivery,Local
+ORD01435,DTDC,National
+ORD01436,Delhivery,National
+ORD01437,Delhivery,Local
+ORD01438,Delhivery,National
+ORD01439,Delhivery,Local
+ORD01440,Ecom Express,National
+ORD01441,BlueDart,National
+ORD01442,Delhivery,National
+ORD01443,Ecom Express,Regional
+ORD01444,Delhivery,Local
+ORD01445,BlueDart,Regional
+ORD01446,Delhivery,Regional
+ORD01447,Delhivery,National
+ORD01448,BlueDart,National
+ORD01449,DTDC,National
+ORD01450,Delhivery,Local
+ORD01451,Ecom Express,National
+ORD01452,DTDC,National
+ORD01453,DTDC,National
+ORD01454,BlueDart,Local
+ORD01455,Delhivery,Local
+ORD01456,BlueDart,Local
+ORD01457,Ecom Express,Regional
+ORD01458,BlueDart,Regional
+ORD01459,BlueDart,National
+ORD01460,Delhivery,Regional
+ORD01461,BlueDart,Local
+ORD01462,BlueDart,Regional
+ORD01463,Delhivery,National
+ORD01464,BlueDart,National
+ORD01465,BlueDart,National
+ORD01466,Delhivery,Regional
+ORD01467,DTDC,Regional
+ORD01468,Delhivery,National
+ORD01469,Delhivery,Regional
+ORD01470,Delhivery,Local
+ORD01471,Delhivery,Local
+ORD01472,Ecom Express,Local
+ORD01473,BlueDart,Regional
+ORD01474,DTDC,Local
+ORD01475,Ecom Express,Local
+ORD01476,DTDC,Local
+ORD01477,BlueDart,Regional
+ORD01478,BlueDart,Regional
+ORD01479,DTDC,Regional
+ORD01480,BlueDart,Local
+ORD01481,DTDC,Local
+ORD01482,DTDC,Regional
+ORD01483,DTDC,Local
+ORD01484,BlueDart,Local
+ORD01485,DTDC,Local
+ORD01486,DTDC,National
+ORD01487,DTDC,Regional
+ORD01488,BlueDart,Local
+ORD01489,BlueDart,Local
+ORD01490,Delhivery,National
+ORD01491,BlueDart,Regional
+ORD01492,Delhivery,Regional
+ORD01493,Ecom Express,Regional
+ORD01494,Delhivery,National
+ORD01495,DTDC,National
+ORD01496,BlueDart,Regional
+ORD01497,BlueDart,Regional
+ORD01498,BlueDart,Local
+ORD01499,Delhivery,National
+ORD01500,Ecom Express,Regional
+ORD01501,BlueDart,Local
+ORD01502,Delhivery,National
+ORD01503,Delhivery,National
+ORD01504,Ecom Express,National
+ORD01505,BlueDart,National
+ORD01506,BlueDart,National
+ORD01507,BlueDart,Local
+ORD01508,Delhivery,National
+ORD01509,BlueDart,National
+ORD01510,Ecom Express,Local
+ORD01511,Delhivery,Local
+ORD01512,Delhivery,National
+ORD01513,Delhivery,Local
+ORD01514,BlueDart,National
+ORD01515,Delhivery,Local
+ORD01516,Ecom Express,Local
+ORD01517,DTDC,Regional
+ORD01518,Ecom Express,Local
+ORD01519,DTDC,Regional
+ORD01520,BlueDart,Regional
+ORD01521,BlueDart,Local
+ORD01522,BlueDart,Local
+ORD01523,Delhivery,Regional
+ORD01524,BlueDart,Local
+ORD01525,Delhivery,National
+ORD01526,DTDC,Regional
+ORD01527,Ecom Express,Local
+ORD01528,DTDC,Regional
+ORD01529,Ecom Express,Local
+ORD01530,BlueDart,Local
+ORD01531,BlueDart,Local
+ORD01532,DTDC,National
+ORD01533,BlueDart,National
+ORD01534,BlueDart,National
+ORD01535,Delhivery,Local
+ORD01536,BlueDart,Local
+ORD01537,Delhivery,Regional
+ORD01538,Delhivery,Regional
+ORD01539,Delhivery,National
+ORD01540,DTDC,Local
+ORD01541,Delhivery,Local
+ORD01542,BlueDart,Regional
+ORD01543,BlueDart,National
+ORD01544,Delhivery,National
+ORD01545,DTDC,Regional
+ORD01546,DTDC,National
+ORD01547,DTDC,Regional
+ORD01548,BlueDart,National
+ORD01549,Delhivery,National
+ORD01550,Delhivery,National
+ORD01551,Delhivery,Local
+ORD01552,Delhivery,Local
+ORD01553,Delhivery,Regional
+ORD01554,Delhivery,Regional
+ORD01555,DTDC,National
+ORD01556,BlueDart,Local
+ORD01557,DTDC,Local
+ORD01558,BlueDart,National
+ORD01559,BlueDart,Local
+ORD01560,Ecom Express,Local
+ORD01561,Ecom Express,Regional
+ORD01562,BlueDart,Regional
+ORD01563,Delhivery,Local
+ORD01564,BlueDart,National
+ORD01565,Delhivery,Regional
+ORD01566,DTDC,National
+ORD01567,Ecom Express,Regional
+ORD01568,Delhivery,Local
+ORD01569,Delhivery,Local
+ORD01570,Delhivery,Local
+ORD01571,Delhivery,Regional
+ORD01572,Ecom Express,Local
+ORD01573,Ecom Express,Regional
+ORD01574,Delhivery,Regional
+ORD01575,Delhivery,Local
+ORD01576,BlueDart,Local
+ORD01577,BlueDart,National
+ORD01578,DTDC,National
+ORD01579,Delhivery,Local
+ORD01580,Delhivery,Local
+ORD01581,Delhivery,National
+ORD01582,DTDC,Local
+ORD01583,BlueDart,National
+ORD01584,Ecom Express,Local
+ORD01585,Ecom Express,National
+ORD01586,Ecom Express,Local
+ORD01587,Delhivery,National
+ORD01588,BlueDart,Local
+ORD01589,Delhivery,Regional
+ORD01590,Delhivery,Local
+ORD01591,BlueDart,Local
+ORD01592,Delhivery,National
+ORD01593,Delhivery,Regional
+ORD01594,Ecom Express,National
+ORD01595,BlueDart,Regional
+ORD01596,Delhivery,National
+ORD01597,DTDC,Regional
+ORD01598,DTDC,National
+ORD01599,Ecom Express,National
+ORD01600,DTDC,Local
+ORD01601,Ecom Express,National
+ORD01602,Delhivery,National
+ORD01603,Delhivery,Local
+ORD01604,BlueDart,Regional
+ORD01605,BlueDart,Local
+ORD01606,BlueDart,National
+ORD01607,BlueDart,Local
+ORD01608,BlueDart,Local
+ORD01609,BlueDart,Regional
+ORD01610,BlueDart,Regional
+ORD01611,Ecom Express,National
+ORD01612,BlueDart,National
+ORD01613,DTDC,Regional
+ORD01614,BlueDart,Local
+ORD01615,Ecom Express,Regional
+ORD01616,Ecom Express,Regional
+ORD01617,DTDC,Regional
+ORD01618,DTDC,Local
+ORD01619,BlueDart,Regional
+ORD01620,Ecom Express,Local
+ORD01621,Ecom Express,National
+ORD01622,Ecom Express,Regional
+ORD01623,DTDC,National
+ORD01624,Delhivery,Regional
+ORD01625,Ecom Express,Local
+ORD01626,BlueDart,National
+ORD01627,Delhivery,Regional
+ORD01628,BlueDart,Local
+ORD01629,Ecom Express,Regional
+ORD01630,BlueDart,Regional
+ORD01631,BlueDart,National
+ORD01632,Delhivery,Regional
+ORD01633,DTDC,Regional
+ORD01634,Delhivery,Local
+ORD01635,BlueDart,Regional
+ORD01636,BlueDart,National
+ORD01637,DTDC,National
+ORD01638,Ecom Express,Local
+ORD01639,DTDC,Local
+ORD01640,Delhivery,Local
+ORD01641,Ecom Express,Regional
+ORD01642,Delhivery,National
+ORD01643,Delhivery,Regional
+ORD01644,Delhivery,Regional
+ORD01645,Delhivery,National
+ORD01646,DTDC,Regional
+ORD01647,Delhivery,Local
+ORD01648,Delhivery,Regional
+ORD01649,BlueDart,National
+ORD01650,BlueDart,National
+ORD01651,Delhivery,Regional
+ORD01652,BlueDart,Regional
+ORD01653,BlueDart,National
+ORD01654,DTDC,Regional
+ORD01655,DTDC,Local
+ORD01656,DTDC,National
+ORD01657,Delhivery,National
+ORD01658,Ecom Express,Local
+ORD01659,Ecom Express,Regional
+ORD01660,DTDC,Regional
+ORD01661,Delhivery,Local
+ORD01662,Delhivery,National
+ORD01663,Ecom Express,Regional
+ORD01664,BlueDart,National
+ORD01665,BlueDart,Local
+ORD01666,Delhivery,Regional
+ORD01667,BlueDart,Local
+ORD01668,Ecom Express,National
+ORD01669,Delhivery,Regional
+ORD01670,Delhivery,Regional
+ORD01671,DTDC,Local
+ORD01672,Delhivery,Local
+ORD01673,BlueDart,Local
+ORD01674,Delhivery,Local
+ORD01675,DTDC,Regional
+ORD01676,Delhivery,Regional
+ORD01677,DTDC,Regional
+ORD01678,BlueDart,Regional
+ORD01679,BlueDart,Local
+ORD01680,BlueDart,Local
+ORD01681,Delhivery,Local
+ORD01682,DTDC,National
+ORD01683,DTDC,Regional
+ORD01684,Delhivery,Local
+ORD01685,Delhivery,Local
+ORD01686,DTDC,National
+ORD01687,BlueDart,Regional
+ORD01688,BlueDart,Regional
+ORD01689,Ecom Express,Regional
+ORD01690,Delhivery,Local
+ORD01691,Ecom Express,National
+ORD01692,Delhivery,National
+ORD01693,DTDC,Local
+ORD01694,BlueDart,National
+ORD01695,BlueDart,National
+ORD01696,Delhivery,Local
+ORD01697,Delhivery,Regional
+ORD01698,BlueDart,Local
+ORD01699,BlueDart,Local
+ORD01700,BlueDart,Regional
+ORD01701,DTDC,Local
+ORD01702,Delhivery,National
+ORD01703,BlueDart,National
+ORD01704,BlueDart,Local
+ORD01705,BlueDart,Regional
+ORD01706,Delhivery,National
+ORD01707,BlueDart,National
+ORD01708,DTDC,National
+ORD01709,BlueDart,Local
+ORD01710,BlueDart,Regional
+ORD01711,Ecom Express,Regional
+ORD01712,DTDC,National
+ORD01713,BlueDart,Local
+ORD01714,DTDC,National
+ORD01715,Delhivery,Local
+ORD01716,DTDC,National
+ORD01717,Delhivery,Regional
+ORD01718,DTDC,Regional
+ORD01719,Ecom Express,Regional
+ORD01720,BlueDart,Local
+ORD01721,Delhivery,Local
+ORD01722,Delhivery,Local
+ORD01723,BlueDart,Local
+ORD01724,BlueDart,Local
+ORD01725,BlueDart,National
+ORD01726,Delhivery,Regional
+ORD01727,Delhivery,Local
+ORD01728,Delhivery,National
+ORD01729,BlueDart,Regional
+ORD01730,Delhivery,National
+ORD01731,Ecom Express,Regional
+ORD01732,Delhivery,Local
+ORD01733,Delhivery,Regional
+ORD01734,DTDC,Regional
+ORD01735,DTDC,Local
+ORD01736,Delhivery,Local
+ORD01737,Ecom Express,Local
+ORD01738,Delhivery,Local
+ORD01739,Ecom Express,Regional
+ORD01740,BlueDart,Regional
+ORD01741,BlueDart,Local
+ORD01742,BlueDart,Regional
+ORD01743,DTDC,Regional
+ORD01744,Delhivery,Local
+ORD01745,BlueDart,Local
+ORD01746,BlueDart,Local
+ORD01747,Ecom Express,Regional
+ORD01748,DTDC,Local
+ORD01749,Delhivery,Regional
+ORD01750,Delhivery,Regional
+ORD01751,Delhivery,Regional
+ORD01752,Delhivery,Local
+ORD01753,Ecom Express,Local
+ORD01754,BlueDart,Regional
+ORD01755,Delhivery,National
+ORD01756,Delhivery,National
+ORD01757,Delhivery,Regional
+ORD01758,Delhivery,Regional
+ORD01759,Delhivery,Regional
+ORD01760,BlueDart,National
+ORD01761,Delhivery,Local
+ORD01762,BlueDart,National
+ORD01763,BlueDart,Regional
+ORD01764,BlueDart,Regional
+ORD01765,DTDC,Local
+ORD01766,Delhivery,Regional
+ORD01767,Delhivery,Regional
+ORD01768,DTDC,Local
+ORD01769,DTDC,Local
+ORD01770,Delhivery,National
+ORD01771,Delhivery,Regional
+ORD01772,Delhivery,Regional
+ORD01773,Delhivery,Local
+ORD01774,Delhivery,Regional
+ORD01775,DTDC,Regional
+ORD01776,Ecom Express,Regional
+ORD01777,BlueDart,Regional
+ORD01778,BlueDart,Regional
+ORD01779,Delhivery,Regional
+ORD01780,Delhivery,Local
+ORD01781,BlueDart,National
+ORD01782,Ecom Express,Regional
+ORD01783,BlueDart,Local
+ORD01784,Ecom Express,Regional
+ORD01785,DTDC,National
+ORD01786,DTDC,Local
+ORD01787,BlueDart,Local
+ORD01788,BlueDart,Regional
+ORD01789,Delhivery,Local
+ORD01790,BlueDart,National
+ORD01791,Delhivery,Local
+ORD01792,Delhivery,National
+ORD01793,BlueDart,Local
+ORD01794,BlueDart,Local
+ORD01795,DTDC,National
+ORD01796,BlueDart,Regional
+ORD01797,BlueDart,Regional
+ORD01798,Delhivery,Local
+ORD01799,Ecom Express,Regional
+ORD01800,Delhivery,Regional
+ORD01801,BlueDart,National
+ORD01802,Delhivery,National
+ORD01803,Ecom Express,Regional
+ORD01804,DTDC,Regional
+ORD01805,Delhivery,Regional
+ORD01806,Delhivery,Regional
+ORD01807,Delhivery,Local
+ORD01808,BlueDart,Local
+ORD01809,DTDC,Local
+ORD01810,DTDC,Local
+ORD01811,Ecom Express,Local
+ORD01812,BlueDart,Regional
+ORD01813,BlueDart,National
+ORD01814,Delhivery,Regional
+ORD01815,DTDC,Local
+ORD01816,DTDC,Local
+ORD01817,BlueDart,Regional
+ORD01818,BlueDart,Local
+ORD01819,Delhivery,Regional
+ORD01820,Delhivery,National
+ORD01821,Ecom Express,Local
+ORD01822,Delhivery,Local
+ORD01823,DTDC,Regional
+ORD01824,Delhivery,National
+ORD01825,DTDC,National
+ORD01826,Delhivery,National
+ORD01827,DTDC,Local
+ORD01828,BlueDart,National
+ORD01829,Delhivery,Local
+ORD01830,BlueDart,Local
+ORD01831,Delhivery,National
+ORD01832,Delhivery,National
+ORD01833,BlueDart,Local
+ORD01834,Ecom Express,Local
+ORD01835,BlueDart,Local
+ORD01836,DTDC,Local
+ORD01837,Ecom Express,Local
+ORD01838,BlueDart,National
+ORD01839,DTDC,Regional
+ORD01840,BlueDart,National
+ORD01841,BlueDart,National
+ORD01842,Delhivery,Regional
+ORD01843,Ecom Express,National
+ORD01844,BlueDart,Regional
+ORD01845,Delhivery,Local
+ORD01846,Delhivery,Regional
+ORD01847,Ecom Express,Regional
+ORD01848,BlueDart,National
+ORD01849,DTDC,National
+ORD01850,DTDC,Regional
+ORD01851,DTDC,National
+ORD01852,Ecom Express,Local
+ORD01853,DTDC,National
+ORD01854,BlueDart,Regional
+ORD01855,Delhivery,Local
+ORD01856,Delhivery,Regional
+ORD01857,Delhivery,Regional
+ORD01858,Delhivery,Local
+ORD01859,Delhivery,National
+ORD01860,Delhivery,Local
+ORD01861,Ecom Express,National
+ORD01862,BlueDart,Regional
+ORD01863,Ecom Express,Local
+ORD01864,Delhivery,Regional
+ORD01865,Delhivery,Regional
+ORD01866,DTDC,Regional
+ORD01867,Delhivery,Regional
+ORD01868,Delhivery,Regional
+ORD01869,Delhivery,Regional
+ORD01870,Delhivery,National
+ORD01871,Ecom Express,Local
+ORD01872,DTDC,Regional
+ORD01873,BlueDart,Local
+ORD01874,BlueDart,National
+ORD01875,Delhivery,National
+ORD01876,BlueDart,Local
+ORD01877,Delhivery,Local
+ORD01878,BlueDart,Local
+ORD01879,Delhivery,Regional
+ORD01880,BlueDart,Regional
+ORD01881,Delhivery,National
+ORD01882,DTDC,Regional
+ORD01883,Delhivery,Local
+ORD01884,Ecom Express,National
+ORD01885,Ecom Express,Regional
+ORD01886,Delhivery,Regional
+ORD01887,BlueDart,Local
+ORD01888,DTDC,Regional
+ORD01889,Ecom Express,National
+ORD01890,DTDC,Regional
+ORD01891,BlueDart,Local
+ORD01892,Ecom Express,Regional
+ORD01893,BlueDart,National
+ORD01894,DTDC,Local
+ORD01895,Ecom Express,Regional
+ORD01896,BlueDart,National
+ORD01897,Ecom Express,Local
+ORD01898,Delhivery,Regional
+ORD01899,Ecom Express,Regional
+ORD01900,BlueDart,Regional
+ORD01901,Ecom Express,Regional
+ORD01902,BlueDart,Local
+ORD01903,DTDC,Regional
+ORD01904,Delhivery,Local
+ORD01905,Delhivery,Regional
+ORD01906,BlueDart,Local
+ORD01907,DTDC,Local
+ORD01908,BlueDart,National
+ORD01909,Delhivery,Regional
+ORD01910,BlueDart,National
+ORD01911,Ecom Express,Local
+ORD01912,BlueDart,Regional
+ORD01913,BlueDart,Local
+ORD01914,BlueDart,National
+ORD01915,Delhivery,National
+ORD01916,BlueDart,Local
+ORD01917,Delhivery,National
+ORD01918,Ecom Express,Local
+ORD01919,DTDC,Regional
+ORD01920,Delhivery,National
+ORD01921,BlueDart,National
+ORD01922,DTDC,National
+ORD01923,BlueDart,Local
+ORD01924,DTDC,Local
+ORD01925,BlueDart,Local
+ORD01926,Delhivery,Regional
+ORD01927,Delhivery,National
+ORD01928,Ecom Express,Local
+ORD01929,BlueDart,Regional
+ORD01930,Delhivery,Local
+ORD01931,BlueDart,Local
+ORD01932,DTDC,Regional
+ORD01933,Ecom Express,Regional
+ORD01934,Delhivery,National
+ORD01935,Delhivery,Local
+ORD01936,Ecom Express,National
+ORD01937,Delhivery,Local
+ORD01938,Delhivery,Local
+ORD01939,Delhivery,Regional
+ORD01940,DTDC,National
+ORD01941,BlueDart,Local
+ORD01942,DTDC,Local
+ORD01943,Delhivery,Regional
+ORD01944,BlueDart,Local
+ORD01945,DTDC,National
+ORD01946,Delhivery,National
+ORD01947,BlueDart,Local
+ORD01948,Delhivery,Regional
+ORD01949,Ecom Express,National
+ORD01950,Ecom Express,Local
+ORD01951,Ecom Express,Regional
+ORD01952,Ecom Express,Local
+ORD01953,BlueDart,Regional
+ORD01954,Delhivery,Local
+ORD01955,DTDC,National
+ORD01956,Delhivery,Regional
+ORD01957,Delhivery,Local
+ORD01958,Delhivery,National
+ORD01959,Delhivery,Local
+ORD01960,Ecom Express,Regional
+ORD01961,Delhivery,Regional
+ORD01962,Delhivery,Local
+ORD01963,Ecom Express,National
+ORD01964,Delhivery,National
+ORD01965,BlueDart,Local
+ORD01966,Delhivery,Regional
+ORD01967,DTDC,Regional
+ORD01968,DTDC,National
+ORD01969,DTDC,Local
+ORD01970,DTDC,Regional
+ORD01971,BlueDart,Regional
+ORD01972,Ecom Express,Regional
+ORD01973,Ecom Express,Regional
+ORD01974,BlueDart,Local
+ORD01975,BlueDart,National
+ORD01976,Ecom Express,Regional
+ORD01977,Ecom Express,National
+ORD01978,Ecom Express,Local
+ORD01979,Ecom Express,Regional
+ORD01980,Delhivery,National
+ORD01981,Delhivery,Regional
+ORD01982,Delhivery,National
+ORD01983,BlueDart,National
+ORD01984,DTDC,Regional
+ORD01985,Delhivery,Regional
+ORD01986,Delhivery,Local
+ORD01987,Delhivery,Regional
+ORD01988,Delhivery,Local
+ORD01989,BlueDart,Regional
+ORD01990,BlueDart,Regional
+ORD01991,BlueDart,Regional
+ORD01992,BlueDart,Local
+ORD01993,Ecom Express,National
+ORD01994,BlueDart,Local
+ORD01995,BlueDart,Local
+ORD01996,Delhivery,Local
+ORD01997,Delhivery,National
+ORD01998,BlueDart,National
+ORD01999,DTDC,Regional
+ORD02000,DTDC,National
